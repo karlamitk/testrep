@@ -5,6 +5,7 @@ Readmetest. Was kann man hier schreiben. Wie geht das Layout?
 
 #Überschrift?
 blabla blubb
+![alt text](./Auswahl_023.png)
 
 ## Kapitelüberschrift?
 # Project Title
