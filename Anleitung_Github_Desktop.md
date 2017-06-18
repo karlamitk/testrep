@@ -1,6 +1,4 @@
-
-
-# github Desktop benutzen
+﻿# github Desktop benutzen
 ## Projekt einrichten
 - Github Desktop installieren.
 - Persönl. Einstellungen (File > Options):
@@ -32,3 +30,8 @@
     - schnellster Weg dorthin: (Repository > View on Github)
     - zusammenführen geht über pull request 
  
+## Git allgemein verstehen
+- sehr ausführlich: https://git-scm.com/book/en/v2
+- kürzer https://homepages.thm.de/~hg11260/mat/git.pdf
+    - v.a. die ersten 2 Seiten können helfen für ein Grundverständnis
+    - Beispiel nutzt nur Kommandozeile und andere Plattform (kein github)
