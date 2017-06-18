@@ -1,4 +1,4 @@
-﻿# Markdown benutzen
+# Markdown benutzen
 - Eine Markdown Datei erstellt man, indem man die Endung .md wählt
 - gute Einleitung/Grundübersicht über Textformat: https://de.wikipedia.org/wiki/Markdown
 - read this! https://help.github.com/articles/about-readmes/
@@ -28,6 +28,6 @@
 
 ### Bild verlinken
 - Vorgehen genauso wie bei Dateien. Syntax unterscheidet sich durch ein `!`
+`    ![Anzeige von Bild aus parallelem Ordner](../images/Desert.jpg)`
 - ![Anzeige von Bild aus parallelem Ordner](../images/Desert.jpg)
 
-`    ![Anzeige von Bild aus parallelem Ordner](../images/Desert.jpg)`
