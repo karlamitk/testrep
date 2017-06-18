@@ -19,6 +19,6 @@
     -dazu unten links Beschreibung der Änderungen (kurz, dort wo summary steht) eintippen und click auf commit to <mein branchname>
 - so viele commits machen, wie gewünscht
 - um ins remote repository (das, was man auf der Homepage sieht) zu pushen (hochladen/veröffentlichen):
-    - oben, wo meist "fetch origin" steht auf den "Push to ..." Button klicken
+    - oben, wo meist "fetch origin" steht auf den "Push to origin" Button klicken
     - erscheint online (allerdings nur, wenn man den branch von master auf den eigenen branchnamen ändert
     - zusammenführen geht über pull request 
