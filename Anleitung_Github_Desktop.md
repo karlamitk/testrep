@@ -1,14 +1,14 @@
 ﻿#github Desktop benutzen
 ## Projekt einrichten
 - Github Desktop installieren.
--Persönl. Einstellungen (File > Options):
-    -Zugangsdaten zu github (Accounts)
-    -Daten, mit denen alles unterschrieben wird (Git)
--Unser Projekt herunterladen:
-    -(File > Clone Repository)
-    -URL: patmu04/cubefactory
-    -local path: Ordner, wo das Projekt liegen soll
--Projekt ist eingerichtet
+- Persönl. Einstellungen (File > Options):
+    - Zugangsdaten zu github (Accounts)
+    - Daten, mit denen alles unterschrieben wird (Git)
+- Unser Projekt herunterladen:
+    - (File > Clone Repository)
+    - URL: patmu04/cubefactory
+    - local path: Ordner, wo das Projekt liegen soll
+- Projekt ist eingerichtet
 
 ## Workflow (Änderungen machen)
 - neuen Branch für die Änderungen anlegen (Branch > New Branch, Namen geben)
