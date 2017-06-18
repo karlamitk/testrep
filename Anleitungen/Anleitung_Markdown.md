@@ -16,7 +16,7 @@
 `    [github link](https://github.com/patmu04/cubefactory/blob/master/case/README.md)`
 
 
-### Datei im selben repository ***relativ** verlinken:
+### Datei im selben repository *relativ* verlinken:
 - [Link zu Dokument im selben ordner](Anleitung_Github_Desktop.md)
 - [Link zu Dokument in übergeordneten Ordner](../README.md)
 - [Link zu Dokument in parallelem Ordner](../images/Desert.jpg)
