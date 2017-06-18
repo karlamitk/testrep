@@ -1,4 +1,4 @@
-﻿#github Desktop benutzen
+# github Desktop benutzen
 ## Projekt einrichten
 - Github Desktop installieren.
 - Persönl. Einstellungen (File > Options):
