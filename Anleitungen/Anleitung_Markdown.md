@@ -28,6 +28,6 @@
 
 ### Bild verlinken
 - Vorgehen genauso wie bei Dateien. Syntax unterscheidet sich durch ein `!`
-`    ![Anzeige von Bild aus parallelem Ordner](../images/Desert.jpg)`
-- ![Anzeige von Bild aus parallelem Ordner](../images/Desert.jpg)
+- `    ![Anzeige von Bild aus parallelem Ordner](../images/Desert.jpg)`
+ ![Anzeige von Bild aus parallelem Ordner](../images/Desert.jpg)
 
