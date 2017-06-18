@@ -11,12 +11,7 @@
 - Projekt ist eingerichtet
 
 ## Workflow (Änderungen machen)
-- Workflow zusammengefasst (Links beziehen sich nicht auf github desktop)
-    - https://guides.github.com/activities/hello-world/
-    - https://help.github.com/articles/github-flow/
-    -  https://guides.github.com/introduction/flow/ 
--  Video, was ungefähr dem entspricht, was WIR machen, allerdings clone repository (siehe oben) anstatt add existing"
-    - https://www.youtube.com/watch?v=ISkPyNkM2iY
+### Unser Workflow grob zusammengefasst
 - neuen Branch für die Änderungen anlegen (Branch > New Branch, Namen geben)
 - darauf achten, dass oben bei "current branch" der neue Branchname steht
     - beliebig Änderungen an den Dokumenten /der Ordnerstruktur im Projektordner unter local path vornehmen
@@ -29,6 +24,15 @@
     - erscheint online (allerdings nur, wenn man den branch von master auf den eigenen branchnamen ändert
     - schnellster Weg dorthin: (Repository > View on Github)
     - zusammenführen geht über pull request 
+
+### Links zum Workflow
+- Workflow zusammengefasst (Links beziehen sich nicht auf github desktop)
+    - https://guides.github.com/activities/hello-world/
+    - https://help.github.com/articles/github-flow/
+    -  https://guides.github.com/introduction/flow/ 
+-  Video, was ungefähr dem entspricht, was WIR machen, allerdings clone repository (siehe oben) anstatt add existing"
+    - https://www.youtube.com/watch?v=ISkPyNkM2iY
+
  
 ## Git allgemein verstehen
 - sehr ausführlich: https://git-scm.com/book/en/v2
