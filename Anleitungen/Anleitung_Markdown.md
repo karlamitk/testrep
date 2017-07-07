@@ -4,6 +4,13 @@
 - read this! https://help.github.com/articles/about-readmes/
 -es gibt viele Templates, die man nutzen kann
 
+## Inhaltsverzeichnis mit Links/ innerhalb des Readme springen
+`[Text für Eine Datei verlinken](#Eine-Datei-Verlinken)`
+
++ [Inhaltsverzeichnis/Links innerhalb des .md](#Inhaltsverzeichnis-mit-Links/-innerhalb-des-Readme-springen)
++ [Eine Datei verlinken](#Eine-Datei-Verlinken)
++ [Eine Tabelle erstellen](#Eine-Tabelle-Erstellen)
+
 ## Eine Datei Verlinken
 ### Datei "irgendwo im Internet"
 - Datei (Seite) öffnen und Adresszeile aud dem Browser einfach kopieren und einfügen
@@ -31,3 +38,13 @@
 - `    ![Anzeige von Bild aus parallelem Ordner](../images/Desert.jpg)`
  ![Anzeige von Bild aus parallelem Ordner](../images/Desert.jpg)
 
+## Eine Tabelle erstellen
+Hier ist eine Tabelle eingefügt:
+
+| Parameter | Value |Unit|
+| :----  | :------ |:------:|
+| **photovoltaic generator** |
+| Number of modules | 3 |-|
+| Dimension unfolded | 1450 x 700 x 2.5 | mm |
+
+---
