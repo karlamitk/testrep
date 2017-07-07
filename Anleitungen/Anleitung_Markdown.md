@@ -47,4 +47,10 @@ Hier ist eine Tabelle eingefügt:
 | Number of modules | 3 |-|
 | Dimension unfolded | 1450 x 700 x 2.5 | mm |
 
----
+```
+| Parameter | Value |Unit|
+| :----  | :------ |:------:|
+| **photovoltaic generator** |
+| Number of modules | 3 |-|
+| Dimension unfolded | 1450 x 700 x 2.5 | mm |
+```
