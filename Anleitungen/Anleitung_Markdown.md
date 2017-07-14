@@ -4,10 +4,13 @@
 - read this! https://help.github.com/articles/about-readmes/
 -es gibt viele Templates, die man nutzen kann
 
-## Inhaltsverzeichnis mit Links/ innerhalb des Readme springen
-`[Text für Eine Datei verlinken](#Eine-Datei-Verlinken)`
+## Inhaltsverzeichnis mit Links/ innerhalb des Readme springen<a name="Datei"></a>
+Zuerst die entsprechende Stelle im Text labeln
+`## Inhaltsverzeichnis<a name="Datei"></a>`,
+dann dieses Label verlinken
+`[Inhaltsverzeichnis/Links innerhalb des .md](#Inhaltsverzeichnis)`
 
-+ [Inhaltsverzeichnis/Links innerhalb des .md](#Inhaltsverzeichnis-mit-Links/-innerhalb-des-Readme-springen)
++ [Inhaltsverzeichnis/Links innerhalb des .md](#Inhaltsverzeichnis)
 + [Eine Datei verlinken](#Datei)
 + [Eine Tabelle erstellen](#Tabelle)
 
