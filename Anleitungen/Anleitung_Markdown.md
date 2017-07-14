@@ -8,10 +8,10 @@
 `[Text für Eine Datei verlinken](#Eine-Datei-Verlinken)`
 
 + [Inhaltsverzeichnis/Links innerhalb des .md](#Inhaltsverzeichnis-mit-Links/-innerhalb-des-Readme-springen)
-+ [Eine Datei verlinken](#Eine-Datei-Verlinken)
-+ [Eine Tabelle erstellen](#Eine-Tabelle-Erstellen)
++ [Eine Datei verlinken](#Datei)
++ [Eine Tabelle erstellen](#Tabelle)
 
-## Eine Datei Verlinken
+## Eine Datei Verlinken<a name="Datei"></a>
 ### Datei "irgendwo im Internet"
 - Datei (Seite) öffnen und Adresszeile aud dem Browser einfach kopieren und einfügen
 - z.B. [irgendein Link](https://de.wikipedia.org/wiki/Markdown)
@@ -38,7 +38,7 @@
 - `    ![Anzeige von Bild aus parallelem Ordner](../images/Desert.jpg)`
  ![Anzeige von Bild aus parallelem Ordner](../images/Desert.jpg)
 
-## Eine Tabelle erstellen
+## Eine Tabelle erstellen<a name="Tabelle"></a>
 Hier ist eine Tabelle eingefügt:
 
 | Parameter | Value |Unit|
