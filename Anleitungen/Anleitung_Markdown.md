@@ -1,8 +1,9 @@
 # Markdown benutzen
 - Eine Markdown Datei erstellt man, indem man die Endung .md wählt
-- gute Einleitung/Grundübersicht über Textformat: https://de.wikipedia.org/wiki/Markdown
-- read this! https://help.github.com/articles/about-readmes/
--es gibt viele Templates, die man nutzen kann
+- gute Einleitung/Grundübersicht über Textformat: [https://de.wikipedia.org/wiki/Markdown](https://de.wikipedia.org/wiki/Markdown)
+- read this [https://help.github.com/articles/about-readmes/](https://help.github.com/articles/about-readmes/)
+- anderer Link: [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)  
+- es gibt viele Templates, die man nutzen kann
 
 ## Inhaltsverzeichnis mit Links/ innerhalb des Readme springen<a name="Datei"></a>
 Zuerst die entsprechende Stelle im Text labeln
