@@ -42,7 +42,7 @@ dann dieses Label verlinken
 - `    ![Anzeige von Bild aus parallelem Ordner](../images/Desert.jpg)`
  ![Anzeige von Bild aus parallelem Ordner](../images/Desert.jpg)
 
-## Eine Tabelle erstellen<a name="Tabelle"></a>
+## Eine Tabelle erstellen (github spezifisch) <a name="Tabelle"></a>
 Hier ist eine Tabelle eingefügt:
 
 | Parameter | Value |Unit|
@@ -58,3 +58,14 @@ Hier ist eine Tabelle eingefügt:
 | Number of modules | 3 |-|
 | Dimension unfolded | 1450 x 700 x 2.5 | mm |
 ```
+
+##Checkboxes (github spezifisch)
+hier ist eine Liste von Checkboxes:
+
++ [x] Einführung
++ [x] explodes
++ [ ] BOM
+
+```+ [x] Einführung
++ [x] explodes
++ [ ] BOM```
